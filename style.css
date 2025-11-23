@@ -1,0 +1,79 @@
+body {
+  margin-top:0;
+  padding-right:0;
+  margin-right:0;
+  margin-left:0;
+}
+h3 {
+  background-color:green;
+
+  padding-bottom:30px;
+  font-family:Arial;
+  color:white;
+  text-align:center;
+  margin-top:0;
+  margin-left:0;
+  margin-right:0;
+  margin-bottom:5px;
+ 
+}
+.click {
+  background-color:green;
+  border:none;
+  height:50px;
+  width:150px;
+  font-family:Arial;
+  color:white;
+  font-weight:bold;
+  font-size:16px;
+  border-radius:8px;
+  cursor:pointer;
+  transition:background-color 0.15s;
+  margin-left:28px;
+}
+.click:hover {
+  background-color:darkgreen;
+}
+
+
+
+.first {
+  margin-top:10px;
+  padding:10px;
+  border-width:1px;
+  border-color:gray;
+  border-style:solid;
+  border-radius:8px;
+  margin-left:15px;
+}
+.second {
+  margin-top:10px;
+  padding:10px;
+  border-width:1px;
+  border-color:gray;
+  border-style:solid;
+  border-radius:8px;
+  margin-left:15px;
+}
+.email {
+  margin-top:10px;
+  padding:10px;
+  border-width:1px;
+  border-color:gray;
+  border-style:solid;
+  border-radius:8px;
+  margin-left:15px;
+}
+.submit {
+  margin-top:10px;
+  background-color:blue;
+  border:none;
+  height:36px;
+  width:100px;
+  color:white;
+  font-family:Arial;
+  font-weight:bold;
+  font-size:15px;
+  border-radius:4px;
+  margin-left:55px;}
+
